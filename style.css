@@ -1,0 +1,13 @@
+h1 {
+    background-color: black;
+    color: orange;
+}
+
+img.Escudo {
+    position: relative;
+    top: -70px;
+}
+
+body {
+    background-color: orange;
+}
